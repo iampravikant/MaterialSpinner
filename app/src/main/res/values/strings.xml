@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Material Spinner</string>
+
+    <string-array name="occupations">
+        <item>Engineer</item>
+        <item>Manager</item>
+        <item>Farmer</item>
+    </string-array>
+</resources>

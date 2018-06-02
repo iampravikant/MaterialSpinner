@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ms_text_size">18sp</dimen>
+    <dimen name="ms_text_margin">3dp</dimen>
+</resources>

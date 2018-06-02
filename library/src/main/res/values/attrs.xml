@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <declare-styleable name="MaterialSpinner" tools:ignore="ResourceName">
+        <attr name="ms_hint" format="string" />
+        <attr name="ms_hint_color" format="color" />
+        <attr name="ms_line_color" format="color" />
+        <attr name="ms_text_size" format="dimension" />
+    </declare-styleable>
+</resources>
